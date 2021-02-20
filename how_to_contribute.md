@@ -3,12 +3,12 @@
 ## Adding an Entry
 
 ### For Windows 
-1. Open the command prompt
-2. Clone the repo by this command 
+1.Open the command prompt
+2.Clone the repo by this command 
 ```
 git clone https://github.com/neuropark/bengali-dataset.git
 ```
-3. Go inside the directory by this command 
+3.Go inside the directory by this command 
 ```
 cd bengali-dataset
 ```
