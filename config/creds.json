@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "bengali-dataset-305418",
+  "private_key_id": "e710f57b039018fc923f78714ef7789f76767ac3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDywqVLd+iUJCvJ\n9ewTGsvX8ZRzf+iAJ0vQL43nEB16uc1WIyvC8TE5O4YLnRZrf84w6o0U/AY2j3LZ\nTpL9wSWMcQPmXmloyLBC704/0AnFeDbA/sddcEcVRzAchuqlFg6xQhOfJmS+XFCh\nbfhHlAdLtST3B9WdMsVZsEBnfNPMDxA20ToIL9DgcvXPScAW3GPEB/kXxOJb3iGJ\nQdgQjZbjA3GhfTG73eRQA6wRvgUZ0c+G0OtmBsCyWm6FPA85zJq0HAtGaltFC44C\nxg+G98SbOR6qOI6xTK1vzQePIeyz8ZDk/s6CmnHHe0eQ5mGmUFU0O+nEtNGH4sKY\nii2MrvBHAgMBAAECggEAAZamIpMeHvteRqaIzRaI90NElOg6hb18FgMm+w2UcSKj\nxiivFx9L5/4h4j6SEHxYGuLWBH6iWHC3hYDUSREepUdyCUEHOzZ2TMx9vGt954sM\nqgD2HgA86YCQlIc0ztq7mDZV+Yh0nU2ZAM1pk/z9z+WCCz8ZCzvIpc3CRiBqJF+A\n7kORJuMOK8ahERcXdHZjr1/mMIsnZaUlwfbqhksa3qjfX3bdcTPLYRPJvmU//+3D\nra+RPBwWt1RJFxj6KUtptQwPATJAxE6RblHt9oju5UKsDasIcsPjy0+tKCMlKCpO\n4dUPHG/g2hwMccBV5waWN7wSP6ti89g91DOzz7Z9OQKBgQD7f+h3KLec0xVT3Jrj\nbr8W+sqiIRCsX7EwFgErWEi1sWbNFE8ocoQdV0ZIqHu9cSJogf2spGuU++BXK/fK\ntUy/kiFtaplZOwcQP1x7D6FvgmWt9qF5ur8DxhSt1/G7yDX2E3Vx0YHIYf7hEMpv\nFMXvvkDQDmNdVug9CS9huNmbuQKBgQD3GrQtwf6vhsTnELxETEY0JxzEPjwOgZJJ\nb6qkopnzJNTWfujX/xX4/pwQnxbc/kq/zEPSM4iR1+f7QvCJmor/kllOAt0Rn8GW\nmrPuuqhbjEyJeLy4ja7byazteh4BxiUKd6DgbNlo1OFBgiGG5gShKjE8Ssh57GkO\nZiUpGsrr/wKBgHGMZVNvUb7/WnC7eD7Y4HOqlVQv44w/xAr21F5ShLlruAM9eSPE\n2Ds7DSN+1idI7gULM5H/xgbE1Zvl4QFna5hOjMMOzt+Hk//U65cwDm3/DJNHd84y\n70zv4KRAjAaBNUO9s1fJBHSJMf9BinQuh9NfLXoCFQCuXTo5bGgNgkoZAoGBAPNS\nklX0j2wcU0wNCLZgPUkhsovzlIPcR0aU9P3FN79bZ1IIChSXlPVpEhiz73mR1d1j\nsO0N3c9vQXoEAoQdb/4WCGZvH205WRGKKOBNYXc0gjFkeMFqkuLOhsAZ3e51RQg3\noG0eAj/eUCmHkKgbXDevKmhqY1rb1t9c6f696U/VAoGBAJWbC5BStdDWVq3bDSgb\ntSoJquRS436be2we3KYmp3wn0Nl1NT9Lxrp5gtVNrGqx06g9wAxG802mMv4OljmJ\nVjLrl6UudMYnfZsJ3fUCY0THNvcDx12xUSB1TxwhQIY3z7et3RTPYjBlVpdf0FwB\npvU01ifPGBxhB4xOw7zqW18+\n-----END PRIVATE KEY-----\n",
+  "client_email": "tanmoy@bengali-dataset-305418.iam.gserviceaccount.com",
+  "client_id": "106357564019284296563",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/tanmoy%40bengali-dataset-305418.iam.gserviceaccount.com"
+}
