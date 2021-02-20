@@ -22,5 +22,5 @@ main.bat
 ```
 Congratulations :tada:, you just made your first your first contribution. You can add as many entries as you can.
 
-<br><br><br>
+<br><br>
 `LivingThings Community`
