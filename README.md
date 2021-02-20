@@ -9,5 +9,5 @@ This data set will contain 1M annotated samples
 
 ## Contribute
 This dataset is still in development phase, we need more contributors, developers to finish the initial 1M annotated Bengali dataset goal.
-See the (how to contribute guide)[https://github.com/neuropark/bengali-dataset/blob/master/how_to_contribute.md]
+See the [how to contribute guide](https://github.com/neuropark/bengali-dataset/blob/master/how_to_contribute.md)
 
