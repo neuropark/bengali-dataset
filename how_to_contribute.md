@@ -3,8 +3,8 @@
 ## Adding a Entry
 
 ### For Windows 
-open the command prompt
-clone the repo by this command 
+Open the command prompt
+Clone the repo by this command 
 ```
 git clone https://github.com/neuropark/bengali-dataset.git
 ```
@@ -16,6 +16,8 @@ Run this command install the dependencies
 ```
 pip install requirments.txt
 ```
+Run this command
 ```
 main.bat
 ```
+Congratulations :tada:, you just made your first your first contribution. You can add as many entries as you can.
