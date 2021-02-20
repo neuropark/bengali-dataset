@@ -2,4 +2,4 @@
 
 ## Adding a Entry
 
-> pip install requirments.txt
+`pip install requirments.txt`
