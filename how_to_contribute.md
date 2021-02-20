@@ -3,3 +3,7 @@
 ## Adding a Entry
 
 `pip install requirments.txt`
+
+```
+main.bat
+```
