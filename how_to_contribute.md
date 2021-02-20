@@ -16,7 +16,14 @@ Run this command install the dependencies
 ```
 pip install requirments.txt
 ```
-
+Open `entries.txt` file in notepad and insert your entries
+Before adding entries you must have to follow this rules
+-Don't spam in the dataset, we are keeping records of email.
+-Make sure the entries you are choosing contains atleast 5 sentences
+-Don't press enter inside a particular entry. Each line must contain exactly one entry. After finishing one specific entry press enter and paste another entry in that next line.
+-Don't repeat your entries. 
+-Broken characters, inappropriate encoding of bengali words are not allowed.
+After doing these save the dataset and go to the next step.
 ```
 আরও শব্দমালা সে শুনতে পায়। কীটপতঙ্গের আওয়াজ তো আছেই। রাতে পাখিরা বিল থেকে উড়ে যায়—তার পাখার শব্দ এবং ভরা বর্ষার সময় বলে চারপাশের জলমগ্ন জায়গায় শাপলা শালুকের সবুজ পাতায় টিট্রিভ পাখিদের বিচরণ—তার কলরবও কানে আসে। বাড়ির দক্ষিণে সদর পুকুর, চারপাশে চালতাগাছের ছায়া। দুটো খেজুরগাছ এবং ছোটো বিশাল শিমূল গাছও আছে। বাড়ির পিছনে মোত্রাঘাসের জঙ্গল। ডাহুক পাখিরাও গভীর রাতে মারামারি শুরু করে দিলে কোলাহল ওঠে। বর্ষায় জলে জঙ্গলে দেশটা ভেসে থাকে।
 
