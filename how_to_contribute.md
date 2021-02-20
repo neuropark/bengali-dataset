@@ -27,7 +27,7 @@ Open `entries.txt` file in notepad and insert your entries
 
 After doing these save the dataset and go to the next step.
 
-Here is a demo of `entries.txt` file containing 3 entries (Don't put these demo sentences into the dataset)
+**Here is a demo of `entries.txt` file containing 3 entries (Don't put these demo sentences into the dataset)**
 ```
 আরও শব্দমালা সে শুনতে পায়। কীটপতঙ্গের আওয়াজ তো আছেই। রাতে পাখিরা বিল থেকে উড়ে যায়—তার পাখার শব্দ এবং ভরা বর্ষার সময় বলে চারপাশের জলমগ্ন জায়গায় শাপলা শালুকের সবুজ পাতায় টিট্রিভ পাখিদের বিচরণ—তার কলরবও কানে আসে। বাড়ির দক্ষিণে সদর পুকুর, চারপাশে চালতাগাছের ছায়া। দুটো খেজুরগাছ এবং ছোটো বিশাল শিমূল গাছও আছে। বাড়ির পিছনে মোত্রাঘাসের জঙ্গল। ডাহুক পাখিরাও গভীর রাতে মারামারি শুরু করে দিলে কোলাহল ওঠে। বর্ষায় জলে জঙ্গলে দেশটা ভেসে থাকে।
 
