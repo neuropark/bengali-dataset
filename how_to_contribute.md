@@ -13,7 +13,9 @@ Go inside the directory by this command
 cd bengali-dataset
 ```
 Run this command install the dependencies 
-`pip install requirments.txt`
+```
+pip install requirments.txt
+```
 ```
 main.bat
 ```
