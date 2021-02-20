@@ -3,20 +3,20 @@
 ## Adding an Entry
 
 ### For Windows 
-1.  Open the command prompt
-2.  Clone the repo by this command 
+Open the command prompt
+Clone the repo by this command 
 ```
 git clone https://github.com/neuropark/bengali-dataset.git
 ```
-3.  Go inside the directory by this command 
+Go inside the directory by this command 
 ```
 cd bengali-dataset
 ```
-4. Run this command install the dependencies 
+Run this command install the dependencies 
 ```
 pip install requirments.txt
 ```
-5. Open `entries.txt` file in notepad and insert your entries
+Open `entries.txt` file in notepad and insert your entries
 
 **Before adding entries you must have to follow this rules**
 - Don't spam in the dataset, we are keeping records of email.
@@ -25,7 +25,7 @@ pip install requirments.txt
 - Don't repeat your entries. 
 - Broken characters, inappropriate encoding of bengali words are not allowed.
 
-6. After doing these save the dataset and go to the next step.
+After doing these save the dataset and go to the next step.
 
 **Here is a demo of `entries.txt` file containing 3 entries (Don't put these demo sentences into the dataset)**
 ```
@@ -35,7 +35,7 @@ pip install requirments.txt
 
 সেদিন জ্যাঠামশাই সবে রোগীর বাড়ি থেকে ফিরে এসেছেন। জনার্দন কাকা তাঁর ঘোড়া নিয়ে আস্তাবলে বেঁধে দিচ্ছে। তিনি স্নানটান সেরে বৈঠখখানায় বসে নিমাইদাকে ডেকে কী একটা ফর্দ ধরিয়ে দিয়েছেন। বাসলেহর ওষুধের দরকার। বর্ষাকাল, সর্দিজ্বরের প্রকোপ বেড়েছে, ওষুধটি না হলে চলে না। তখনই বাবা গিয়ে নালিশ দিলেন, আর তো ও ঘরে থাকা যাচ্ছে না।
 ```
-7. Run this command
+Run this command
 ```
 main.bat
 ```
