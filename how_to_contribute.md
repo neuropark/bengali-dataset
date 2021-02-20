@@ -1,6 +1,6 @@
 # How to Contribute 
 
-## Adding a Entry
+## Adding an Entry
 
 ### For Windows 
 Open the command prompt
@@ -21,3 +21,6 @@ Run this command
 main.bat
 ```
 Congratulations :tada:, you just made your first your first contribution. You can add as many entries as you can.
+Here's a sentence with a footnote. [^1]
+
+[^1]: This is the footnote.
