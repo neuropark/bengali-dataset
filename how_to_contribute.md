@@ -14,7 +14,7 @@ cd bengali-dataset
 ```
 Run this command install the dependencies 
 ```
-pip install requirments.txt
+pip install -r requirments.txt
 ```
 Open `config` folder and you will be able to see a `mail.json` file. Open the file in notepad and you will be able to see something like this
 ```
