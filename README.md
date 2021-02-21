@@ -15,3 +15,6 @@ See the [how to contribute guide](https://github.com/neuropark/bengali-dataset/b
 Contact the maintainers of the datasets
 
 Join our [discord community](https://discord.gg/PUPBAwu) for further discussions.
+
+
+`LivingThings Community`
