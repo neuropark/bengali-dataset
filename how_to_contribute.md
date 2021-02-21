@@ -16,6 +16,20 @@ Run this command install the dependencies
 ```
 pip install requirments.txt
 ```
+Open `config` folder and you will be able to see a `mail.json` file. Open the file in notepad and you will be able to see something like this
+```
+{
+	"email": "ENTER YOUR EMAIL INSIDE THE QUOTE"
+}
+```
+Edit the file and enter your real email id for verification. After doing this your `email.json` will look something like this
+```
+{
+	"email": "demoUser@gmail.com"
+}
+```
+Now save that file and go to the next step.
+
 Open `entries.txt` file in notepad and insert your entries
 
 **Before adding entries you must have to follow this rules**
