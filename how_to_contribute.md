@@ -14,7 +14,7 @@ cd bengali-dataset
 ```
 Run this command install the dependencies 
 ```
-pip install -r requirments.txt
+pip install -r requirements.txt
 ```
 Open `config` folder and you will be able to see a `mail.json` file. Open the file in notepad and you will be able to see something like this
 ```
@@ -53,7 +53,7 @@ Run this command
 ```
 main.bat
 ```
-Congratulations :tada:, you just made your first your first contribution. You can add as many entries as you can.
+Congratulations :tada:, you just made your first contribution. You can add as many entries as you can.
 
 <br><br>
 `LivingThings Community`
